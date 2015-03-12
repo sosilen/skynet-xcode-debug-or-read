@@ -7,7 +7,7 @@
 
 2.解压 ./jemalloc-3.6.0.tar.bz2 到 ./skynet/3rd/jemalloc/
 
-3. 编译 jemalloc
+3.编译 jemalloc
    cd 到 jemalloc 目录下
    ./configure 
 
