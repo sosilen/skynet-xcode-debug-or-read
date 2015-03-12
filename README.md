@@ -2,6 +2,7 @@
 
 
 二：自己网上下载安装包配置过程
+
 1.解压 ./skynet-1.0.0-alpha.zip 到 ./skynet
 
 2.解压 ./jemalloc-3.6.0.tar.bz2 到 ./skynet/3rd/jemalloc/
