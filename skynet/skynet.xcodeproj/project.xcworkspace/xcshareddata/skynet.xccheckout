@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69034B0B-D8B7-4F07-9399-36694F014911</string>
+	<key>IDESourceControlProjectName</key>
+	<string>skynet</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a669a6e3-12af-9f42-8ddf-4a673be337eb</key>
+		<string>https://192.168.1.2/svn/server</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>engine/skynet/skynet.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a669a6e3-12af-9f42-8ddf-4a673be337eb</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a669a6e3-12af-9f42-8ddf-4a673be337eb</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a669a6e3-12af-9f42-8ddf-4a673be337eb</string>
+			<key>IDESourceControlWCCName</key>
+			<string>server</string>
+		</dict>
+	</array>
+</dict>
+</plist>
