@@ -17,5 +17,19 @@ make 'macosx'
 5.为了能在mac下运行
 去掉 lua 及 luac 的main 函数
 
+lua.c
+#ifdef LUA_DEBUG
+int mainlua (int argc, char **argv) {
+#else
+int main (int argc, char **argv) {
+#endif
+
+luac.c
+#ifdef LUA_DEBUG
+int mainluac(int argc, char* argv[])
+#else
+int main (int argc, char **argv)
+#endif
+
 6.xcode调试
-直接打开skynet.xcodeproj 点击运行
+直接打开skynet/skynet.xcodeproj 点击运行
