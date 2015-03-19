@@ -1,21 +1,21 @@
-Ò»£ºÖ±½Ó skynet ÏÂ ÔËĞĞ skynet.xcodeproj
+ä¸€ï¼šç›´æ¥ skynet ä¸‹ è¿è¡Œ skynet.xcodeproj
 
 
-¶ş£º×Ô¼ºÍøÉÏÏÂÔØ°²×°°üÅäÖÃ¹ı³Ì
+äºŒï¼šè‡ªå·±ç½‘ä¸Šä¸‹è½½å®‰è£…åŒ…é…ç½®è¿‡ç¨‹
 
-1.½âÑ¹ ./skynet-1.0.0-alpha.zip µ½ ./skynet
+1.è§£å‹ ./skynet-1.0.0-alpha.zip åˆ° ./skynet
 
-2.½âÑ¹ ./jemalloc-3.6.0.tar.bz2 µ½ ./skynet/3rd/jemalloc/
+2.è§£å‹ ./jemalloc-3.6.0.tar.bz2 åˆ° ./skynet/3rd/jemalloc/
 
-3.±àÒë jemalloc
-   cd µ½ jemalloc Ä¿Â¼ÏÂ
+3.ç¼–è¯‘ jemalloc
+   cd åˆ° jemalloc ç›®å½•ä¸‹
    ./configure 
 
-4.±àÒë skynet
+4.ç¼–è¯‘ skynet
 make 'macosx'
 
-5.ÎªÁËÄÜÔÚmacÏÂÔËĞĞ
-È¥µô lua ¼° luac µÄmain º¯Êı
+5.ä¸ºäº†èƒ½åœ¨macä¸‹è¿è¡Œ
+å»æ‰ lua åŠ luac çš„main å‡½æ•°
 
 lua.c
 #ifdef LUA_DEBUG
@@ -31,5 +31,9 @@ int mainluac(int argc, char* argv[])
 int main (int argc, char **argv)
 #endif
 
-6.xcodeµ÷ÊÔ
-Ö±½Ó´ò¿ªskynet/skynet.xcodeproj µã»÷ÔËĞĞ
+6.xcodeè°ƒè¯•
+ç›´æ¥æ‰“å¼€skynet/skynet.xcodeproj ç‚¹å‡»è¿è¡Œ
+
+
+7
+æŠ¥é”™å¤„ç†Need a config file. Please read skynet wiki : https: github.com cloudwu skynet wiki Config usage: skynet configfilename
