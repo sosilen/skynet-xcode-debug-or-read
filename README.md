@@ -37,3 +37,4 @@ int main (int argc, char **argv)
 
 7
 报错处理Need a config file. Please read skynet wiki : https: github.com cloudwu skynet wiki Config usage: skynet configfilename
+https://github.com/sosilen/skynet-xcode-debug-or-read/wiki/%E6%8A%A5%E9%94%99%E5%A4%84%E7%90%86Need-a-config-file.-Please-read-skynet-wiki-:-https:--github.com-cloudwu-skynet-wiki-Config-usage:-skynet-configfilename
